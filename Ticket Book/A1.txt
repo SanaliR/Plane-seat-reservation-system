@@ -1,0 +1,5 @@
+Ticketrow =A, seatNumber =1, price=200
+Person info: 
+First name: dwcws
+surname: defev
+Email: fvw@.
